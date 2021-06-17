@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "951219368815",
+    "firebase_url": "https://drowsiness-b556d.firebaseio.com",
+    "project_id": "drowsiness-b556d",
+    "storage_bucket": "drowsiness-b556d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951219368815:android:de306f683f02f91414ae9a",
+        "android_client_info": {
+          "package_name": "com.example.notify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951219368815-cje4om0u09gs5fdd2gjnib87uctis3r3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQcCeY_GFxoAKM9kzGUm7GIqYoQmOxaUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951219368815-cje4om0u09gs5fdd2gjnib87uctis3r3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951219368815:android:c1435b2a5b96359c14ae9a",
+        "android_client_info": {
+          "package_name": "com.example.staggered_layout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951219368815-cje4om0u09gs5fdd2gjnib87uctis3r3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQcCeY_GFxoAKM9kzGUm7GIqYoQmOxaUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951219368815-cje4om0u09gs5fdd2gjnib87uctis3r3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
